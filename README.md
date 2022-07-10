@@ -13,4 +13,4 @@ We also have CRUD operation (in Sync and Async)
 C->Create
 R->Read
 U->Update
-D->Delete#
+D->Delete
